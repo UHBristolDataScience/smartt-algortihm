@@ -1,3 +1,5 @@
+[![GNU APGLv3 License](https://img.shields.io/github/license/UHBristolDataScience/smartt-algortihm.svg?style=for-the-badge)](https://github.com/UHBristolDataScience/smartt-algortihm/blob/master/LICENSE.txt)
+
 # smartt-algortihm
 
 This repository contains modelling code for the SMARTT Critical Care Pathways project. The code here has been updated from the [original repository](https://github.com/UHBristolDataScience/towards-decision-support-icu-discharge) (where you can also find data processing scripts).
@@ -21,3 +23,7 @@ To cite this project, please use:
 The data to run these models contains pseudonymised patient-level data which cannot be shared online. Please contact the lead author to discuss data sharing: [Chris McWilliams](mailto:chris.mcwilliams@bristol.ac.uk?subject=[GitHub]%20SMARTT).
 
 Further details on processing of the local dataset can be found in [this publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6733376/) and [this repository](https://github.com/UHBristolDataScience/ICNARC-to-Philips-Linkage).
+
+
+[license-url]: https://github.com/UHBristolDataScience/smartt-algortihm/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/license/UHBristolDataScience/smartt-algortihm.svg?style=for-the-badge
